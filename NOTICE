@@ -1,0 +1,5 @@
+Exposift — Copyright (c) 2026 Safa PAKSU (Spaksu), MIT License (see LICENSE).
+
+Bundled third-party components keep their own licenses:
+  PDF.js (Apache-2.0), pdf-lib (MIT), fflate (MIT),
+  Tesseract.js and its eng/tur language data (Apache-2.0), Tailwind CSS (MIT).

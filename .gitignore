@@ -1,0 +1,8 @@
+config.php
+data/settings.json
+test_dıocs/
+.DS_Store
+.claude/
+*.log
+_site/
+PLAN.md
